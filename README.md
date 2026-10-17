@@ -272,6 +272,7 @@
 ### Insecure Direct Object References
 
 - [Autorize](https://github.com/Quitten/Autorize) - Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily
+- [ZeroDOM](https://github.com/DevHusnainAi/zerodom) - Deterministic cross-identity authorization testing (IDOR / broken access control) from the CLI or an MCP agent: register two logged-in identities, replay a request as each, and flag the 200-vs-401 split. A scriptable, headless replay-and-compare in the spirit of Autorize.
 
 ### Open Redirect
 
